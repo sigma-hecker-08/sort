@@ -1,1 +1,3 @@
 # sort
+
+i am a pro software engineer, but im not yet a sorting conossuer? got to get better at it...
